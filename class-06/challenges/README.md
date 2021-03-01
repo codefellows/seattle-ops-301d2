@@ -12,4 +12,4 @@ Reputed in the cyber community for its various applications ranging from malware
 
 ## Demonstration
 
-Ref. [DEMO.md]{DEMO.md}
+Ref. [DEMO.md](DEMO.md)

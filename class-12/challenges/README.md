@@ -16,4 +16,4 @@ Python is known for its versatile and diverse selection of libraries. Libraries 
 
 ## Demonstration
 
-Ref. [DEMO.md]{DEMO.md}
+Ref. [DEMO.md](DEMO.md)

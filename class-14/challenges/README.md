@@ -10,4 +10,4 @@ Today you will analyze a malicious script written in Python and submit an interp
 
 ## Demonstration
 
-Ref. [DEMO.md]{DEMO.md}
+Ref. [DEMO.md](DEMO.md)

@@ -11,4 +11,4 @@ Powershell can be a powerful tool in administering Active Directory (AD) users a
 
 ## Demonstration
 
-Ref. [DEMO.md]{DEMO.md}
+Ref. [DEMO.md](DEMO.md)

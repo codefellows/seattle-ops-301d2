@@ -10,4 +10,4 @@ Functions are universally useful across all coding languages for their role as a
 
 ## Demonstration
 
-Ref. [DEMO.md]{DEMO.md}
+Ref. [DEMO.md](DEMO.md)

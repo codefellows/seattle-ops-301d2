@@ -10,4 +10,4 @@ Today, you will be writing a bash script that clears log files for you.
 
 ## Demonstration
 
-Ref. [DEMO.md]{DEMO.md}
+Ref. [DEMO.md](DEMO.md)
