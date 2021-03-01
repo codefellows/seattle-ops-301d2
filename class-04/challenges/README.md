@@ -6,7 +6,7 @@ Conditionals allow us to program a process to react differently based on various
 
 ## Resources
 
-- [Bash conditional statement](https://linuxhint.com/bash_conditional_statement/){:target="_blank"} 
+- [Bash conditional statement](https://linuxhint.com/bash_conditional_statement/)
 
 ## Demonstration
 
