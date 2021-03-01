@@ -6,8 +6,8 @@ Linux tracks file permissions using a text and digit system that is associated w
 
 ## Resources
 
-- [Linux, Mac and Unix File Permissions](https://stevenbarrett1984.wordpress.com/2014/02/08/linux-mac-and-unix-file-permissions-and-the-chmod-command-part-1/){:target="_blank"}
-- [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/){:target="_blank"}
+- [Linux, Mac and Unix File Permissions](https://stevenbarrett1984.wordpress.com/2014/02/08/linux-mac-and-unix-file-permissions-and-the-chmod-command-part-1/)
+- [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ## Demonstration
 
