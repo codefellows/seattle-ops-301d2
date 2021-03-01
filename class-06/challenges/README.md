@@ -6,9 +6,9 @@ Reputed in the cyber community for its various applications ranging from malware
 
 ## Resources
 
-- [Python: Why It Is Better for Cybersecurity in 2020](https://www.cybrary.it/blog/python-why-it-is-better-for-cybersecurity-in-2020/){:target="_blank"}
-- [Python Examples](https://www.w3schools.com/python/python_examples.asp){:target="_blank"}
-- [Variables and Data Types in Python](https://www.edureka.co/blog/variables-and-data-types-in-python/#1){:target="_blank"}
+- [Python: Why It Is Better for Cybersecurity in 2020](https://www.cybrary.it/blog/python-why-it-is-better-for-cybersecurity-in-2020/)
+- [Python Examples](https://www.w3schools.com/python/python_examples.asp)
+- [Variables and Data Types in Python](https://www.edureka.co/blog/variables-and-data-types-in-python/#1)
 
 ## Demonstration
 

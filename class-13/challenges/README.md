@@ -6,7 +6,7 @@ Ever wondered how web browsers like Google Chrome communicate with web servers t
 
 ## Resources
 
-[Python Requests Library Guide](https://realpython.com/python-requests/){:target="_blank"}
+[Python Requests Library Guide](https://realpython.com/python-requests/)
 
 ## Demonstration
 

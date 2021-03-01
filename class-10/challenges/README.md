@@ -6,7 +6,7 @@ Conditionals are an important tool in any language and see plenty of use in Pyth
 
 ## Resources
 
-- [Python If ... Else](https://www.w3schools.com/python/python_conditions.asp){:target="_blank"}
+- [Python If ... Else](https://www.w3schools.com/python/python_conditions.asp)
 
 ## Demonstration
 

@@ -6,7 +6,7 @@ Python is known for its relevance to data science and consequently handles data 
 
 ## Resources
 
-- [Python Lists](https://www.w3schools.com/python/python_lists.asp){:target="_blank"}
+- [Python Lists](https://www.w3schools.com/python/python_lists.asp)
 
 ## Demonstration
 

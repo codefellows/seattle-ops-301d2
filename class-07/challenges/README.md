@@ -6,7 +6,7 @@ Functions are universally useful across all coding languages for their role as a
 
 ## Resources
 
-- [Python Functions](https://www.w3schools.com/python/python_functions.asp){:target="_blank"}
+- [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 
 ## Demonstration
 

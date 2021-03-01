@@ -36,4 +36,4 @@ By designing a network to control how traffic flows among its parts, we can achi
 
 ## Resources
 
-- [Protect home network using subnets with pfSense](https://netosec.com/protect-home-network/){:target="_blank"}
+- [Protect home network using subnets with pfSense](https://netosec.com/protect-home-network/)
