@@ -4,6 +4,7 @@ Today we'll have a guest instructor present on the topic of Diversity and Inclus
 
 ## Today's Outline
 
+- Presentation: Diversity and Inclusion
 - Review of Ops 301 in preparation for final exam
 - Preview of Ops 401
 - Project Team formation
