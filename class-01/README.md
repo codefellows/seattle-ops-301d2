@@ -30,8 +30,9 @@ Microsoft Windows Server is an OS that facilitates the hosting of critical autho
 
 ## Today's Outline
 
-- Welcome Presentation
-- Course Overview
+- Presentation: Implicit Bias
+- Course Overview of Ops 301
+- Discussion: Career Outcomes of Ops 301
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
