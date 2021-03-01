@@ -10,4 +10,4 @@ Today, you will manipulate a variable in bash to apply today's date to a log fil
 
 ## Demonstration
 
-Ref. DEMO.md
+Ref. [DEMO.md]{DEMO.md}

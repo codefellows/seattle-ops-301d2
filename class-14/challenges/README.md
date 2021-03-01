@@ -6,8 +6,8 @@ Today you will analyze a malicious script written in Python and submit an interp
 
 ## Resources
 
-- [How to quickly and effectively read other people’s code](How to quickly and effectively read other people’s code)
+- [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
 ## Demonstration
 
-Refer to DEMO.md
+Ref. [DEMO.md]{DEMO.md}

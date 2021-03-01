@@ -10,4 +10,4 @@ Conditionals are an important tool in any language and see plenty of use in Pyth
 
 ## Demonstration
 
-Ref. DEMO.md
+Ref. [DEMO.md]{DEMO.md}

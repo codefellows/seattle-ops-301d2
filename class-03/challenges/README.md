@@ -11,4 +11,4 @@ Linux tracks file permissions using a text and digit system that is associated w
 
 ## Demonstration
 
-Refer to DEMO.md
+Ref. [DEMO.md]{DEMO.md}

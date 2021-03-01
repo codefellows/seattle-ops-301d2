@@ -1,4 +1,4 @@
-# Network Scanning with NMAP
+# Port Scanning with Zenmap
 
 The network mapping tool Nmap is an open source utility commonly used in network discovery ("enumeration" in offensive terms) and security auditing.
 
