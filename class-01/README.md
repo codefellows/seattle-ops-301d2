@@ -1,4 +1,4 @@
-# Lab: Windows Server
+# Windows Server
 
 ## Overview
 
