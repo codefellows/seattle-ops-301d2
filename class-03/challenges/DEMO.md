@@ -7,11 +7,6 @@ The demo code below introduces concepts necessary to complete the challenge.
 ```bash
 #!/bin/bash
 
-# Script:                       Ops 301 Ops Chall ##
-# Author:                       Your Name
-# Date of latest revision:      MM/DD/YYYY
-# Purpose: xxx
-
 # How to view file permissions
 
 ls -al

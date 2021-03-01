@@ -7,9 +7,6 @@ The demo code below introduces concepts necessary to complete the challenge.
 ```bash
 #!/bin/bash
 
-# Script:                       Ops 301 Ops Chall 02
-# Purpose:                      Append, date and time
-
 # How to show time and date
 
 # Running date command from terminal gives a general output
