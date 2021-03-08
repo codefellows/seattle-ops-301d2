@@ -15,7 +15,7 @@ All required downloads of large files will be listed here to help you prepare fo
 - Class 6
   - [pfSense ISO](https://www.pfsense.org/download/)
   - [Kali Linux ISO](https://www.kali.org/downloads/)
-- Class 8
+- Class 7, 8
   - [Ubuntu Server ISO](https://ubuntu.com/download/server#releases)
 
 ## Module 3 Network Security
