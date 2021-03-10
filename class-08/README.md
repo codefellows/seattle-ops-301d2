@@ -1,6 +1,8 @@
 # Routing
 
-Enterprise network administrators use routing skills to handle large and complex multi-router topologies or connections. ISP backbone routers can and do malfunction on occasion, causing routing problems for everyday users. Routing issues can also arise when configuring VPN tunnelling between two complex LANs. Today you will configure an alternate route in a network disruption scenario.
+Enterprise network administrators use routing skills to handle large and complex multi-router topologies or connections. ISP backbone routers can and do malfunction on occasion, causing routing problems for everyday users. Routing issues can also arise when configuring VPN tunnelling between two complex LANs. 
+
+Routing is a fundamental mechanic in the overall operations of not only networks but the internet at large. In today's lab you'll practice configuring BGP on two routers.
 
 ## Learning Objectives
 
@@ -12,14 +14,15 @@ Enterprise network administrators use routing skills to handle large and complex
 - Routing protocols
   - OSPF
   - BGP
+- Routing table
 - Static routing
 - Default routing
 - Dynamic routing
 
 #### Execute
 
-- Given a network disruption, configure an alternate route
-- Test network connectivity between routers
+- Given two networks, configure BGP routing 
+- Access routing tables on various operating systems
 
 ## Today's Outline
 
@@ -30,5 +33,3 @@ Enterprise network administrators use routing skills to handle large and complex
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
-
-## Resources
