@@ -33,3 +33,8 @@ Routing is a fundamental mechanic in the overall operations of not only networks
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [Ubuntu Server ISO](https://ubuntu.com/download/server#releases){:target="_blank"}
+- [Dynamic Routing with FRR Slides](https://www.slideshare.net/NetgateUSA/dynamic-routing-with-frr-pfsense-hangout-december-2017){:target="_blank"}
